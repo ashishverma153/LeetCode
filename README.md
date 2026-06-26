@@ -42,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ashishverma153/LeetCode/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ashishverma153/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
