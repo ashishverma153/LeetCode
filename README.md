@@ -21,4 +21,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ashishverma153/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ashishverma153/LeetCode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ashishverma153/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
