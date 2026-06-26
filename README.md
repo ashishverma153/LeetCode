@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0066-plus-one](https://github.com/ashishverma153/LeetCode/tree/master/0066-plus-one) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishverma153/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ashishverma153/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
