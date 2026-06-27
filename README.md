@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ashishverma153/LeetCode/tree/master/0066-plus-one) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ashishverma153/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishverma153/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ashishverma153/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -49,4 +50,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0175-combine-two-tables](https://github.com/ashishverma153/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/ashishverma153/LeetCode/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ashishverma153/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ashishverma153/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
