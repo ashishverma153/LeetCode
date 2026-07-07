@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/ashishverma153/LeetCode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/ashishverma153/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashishverma153/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0283-move-zeroes](https://github.com/ashishverma153/LeetCode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishverma153/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ashishverma153/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/ashishverma153/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/ashishverma153/LeetCode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/ashishverma153/LeetCode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
