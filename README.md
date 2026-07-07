@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/ashishverma153/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/ashishverma153/LeetCode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/ashishverma153/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ashishverma153/LeetCode/tree/master/0509-fibonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashishverma153/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -16,12 +17,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/ashishverma153/LeetCode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/ashishverma153/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashishverma153/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/ashishverma153/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ashishverma153/LeetCode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishverma153/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ashishverma153/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ashishverma153/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishverma153/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Prefix Sum
 |  |
@@ -62,8 +65,14 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashishverma153/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/ashishverma153/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ashishverma153/LeetCode/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/ashishverma153/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ashishverma153/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
