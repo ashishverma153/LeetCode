@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ashishverma153/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0050-powx-n](https://github.com/ashishverma153/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ashishverma153/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ashishverma153/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ashishverma153/LeetCode/tree/master/0509-fibonacci-number) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ashishverma153/LeetCode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/ashishverma153/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
