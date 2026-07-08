@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0182-duplicate-emails](https://github.com/ashishverma153/LeetCode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/ashishverma153/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/ashishverma153/LeetCode/tree/master/0595-big-countries) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ashishverma153/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Binary Search
 |  |
 | ------- |
