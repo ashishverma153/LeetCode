@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/ashishverma153/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ashishverma153/LeetCode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/ashishverma153/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/ashishverma153/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashishverma153/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/ashishverma153/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ashishverma153/LeetCode/tree/master/0283-move-zeroes) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ashishverma153/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ashishverma153/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ashishverma153/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ashishverma153/LeetCode/tree/master/0283-move-zeroes) |
 ## String
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ashishverma153/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ashishverma153/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/ashishverma153/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
