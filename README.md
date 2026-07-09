@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/ashishverma153/LeetCode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/ashishverma153/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ashishverma153/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ashishverma153/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ashishverma153/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashishverma153/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/ashishverma153/LeetCode/tree/master/0268-missing-number) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashishverma153/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ashishverma153/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/ashishverma153/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishverma153/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Prefix Sum
@@ -91,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashishverma153/LeetCode/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/ashishverma153/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
