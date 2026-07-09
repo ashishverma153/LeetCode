@@ -8,8 +8,6 @@ class Solution {
                 count++;
                 ans = Math.max(ans, count);
             } else {
-                i=j+1;
-                j=i-1;
                 count=0;
             }
         }
