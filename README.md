@@ -97,4 +97,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ashishverma153/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ashishverma153/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
